@@ -8,7 +8,8 @@
 - Visibility: monitoring which microservice to identify potential issues and have a centralized log
 - Fault tolerance: one microservice should not be dependend on one another
 
-  ### Spring solutions used in this course: 
+
+### Spring solutions used in this course: 
 - Naming server (Eureka)
 - Ribbon (Client side load balancing
 - Feigh (Easier REST clients)
@@ -17,7 +18,7 @@
 - Hystrix: configurate a default response when a service is down
 
   
-  ## Ports
+## Ports
 
 |     Application       |     Port          |
 | ------------- | ------------- |
